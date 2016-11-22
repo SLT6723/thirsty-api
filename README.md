@@ -1,24 +1,12 @@
-# README
+Thirsty API
+===========
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is an API for the Thirsty iOS Client
 
-Things you may want to cover:
+* Uses https://github.com/mbleigh/acts-as-taggable-on for tagging
 
-* Ruby version
+## Getting Started
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+1. `rvm use 2.3.3`
+2. `bundle install`
+3. `rails server`
